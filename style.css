@@ -1,0 +1,188 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.main{
+   
+    width: 100%;
+background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(photo-1592298285277-64da3dc70efb.jpg);
+background-size: center;
+background-size: cover;
+height: 125vh;
+}
+
+.main1{
+   
+    width: 100%;
+background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(2.jpg);
+background-size: center;
+background-size: cover;
+height: 120vh;
+}
+
+.navbar{
+    width: 1200px;
+    height:  75px;
+    margin: auto;
+}
+.icon{
+    width: 300px;
+    float: left;
+    height: 70px;
+}
+.logo{
+    color: orange;
+    font-size: 35px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.menu{
+    color: powderblue;
+    width: 500px;
+    float: left;
+    height: 70px;
+}
+
+.menu1{
+    
+    width: 30px;
+    float:left;
+    height: 30px;
+    color:tomato;
+    margin-left: 400px;
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: right;
+}
+   ul li{
+    
+    list-style:none;
+    margin-left: 35px;
+    margin-top: 27px;
+    font-size: 20px;
+}
+ul li a{
+    
+text-decoration: none;
+color:powderblue;
+}
+ul li a:hover{
+    
+    color: orange;
+    }
+    .search{
+        width: 630px;
+        float: left;
+        margin: 270px;
+
+    }
+    .srch  {
+        font-family: Arial, Helvetica, sans-serif;
+        width: 300px;
+        height: 50px;
+        background: transparent;
+        border: 3px solid rgb(238, 146, 7);
+        margin-top: 3px;
+        color: peachpuff;
+        border-right: none;
+        float: left;
+        padding: 1px;
+        
+    }
+    .btn{
+        width: 100px;
+        height: 55px;
+        background: yellow;
+        border: 2px solid orangered;
+        color-scheme: yellow;
+    }
+    .content{
+        margin: 100px;
+        width: 600px;
+        height: auto;
+        margin-right: auto;
+        color: white ;
+    
+    }
+    .content .par{
+        
+        padding-left: 20px;
+        padding-top: 40px;
+        font-family: Arial, Helvetica, sans-serif;
+        letter-spacing: 1.2px;
+        line-height: 20px;
+    }
+    .content h1{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 50 px;
+        padding-left: 20 px;
+        margin-top: 18%; 
+        color: orange;
+        
+
+    }
+    .content span{
+        color: olive;
+        font-size: 60px;
+    }
+    .form {
+
+        width: 250px;
+        height: 200px;
+        background: linear-gradient(to bottom, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
+        position: absolute;              
+        top: 150px;
+        left: 950px;
+
+    }
+    
+    .form h2{
+        width: 200px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        color: orange;
+        font-size: 22px;
+        background-color:transparent;
+        border-radius: 10px;
+        margin: 2px;
+        padding: 8px;
+}
+      .form input {
+          width: 240px;
+          height: 25px;
+          background: transparent;
+          border-bottom: 1px solid orange;
+          color: black;
+          font-size: 100%;
+          font-family: Georgia, 'Times New Roman', Times, serif;
+
+      }
+      .form p{
+
+        color: orange;
+      }
+      .main1 .par{
+          color:orange;
+        padding-left: 40px;
+        padding-top: 40px;
+        font-family: Arial, Helvetica, sans-serif;
+        letter-spacing: 1px;
+        line-height: 20px;
+
+      }
+      .main1 .content
+      {
+          color: papayawhip;
+          float: left;
+          
+      }
+      
+      
+    
+      
+       
